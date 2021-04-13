@@ -1,0 +1,14 @@
+File Name : textfile.txt
+File Size : 0 KB
+File Path : L:\programming\Local\FileMetadata-Java\textfile.txt
+File Length : 0
+Can Write : true
+Can Read : true
+Can Execute : true
+Creation Time : 2021-04-12T09:08:33.110903Z
+Is Directory : false
+Is Regular File : true
+Is Symbolic link : false
+Last Access Time : 2021-04-12T09:08:33.110903Z
+Last Modified Time : 2021-04-12T09:08:33.110903Z
+
